@@ -40,3 +40,14 @@
 | "key3"    | 6     |
 | "key4"    | 4     |
 | "someKey" | 9     |
+
+#### Comparison Operators
+
+| Operator | Description              | Example                  |
+| -------- | ------------------------ | ------------------------ |
+| <        | Less than                | 1 < 2 true               |
+| >        | Greater than             | 1 > 2 false              |
+| <=       | Less than or equal to    | 1 <= 1 true 0 <= 1 true  |
+| >=       | Greater than or equal to | 1 >= 1 true 0 >= 1 false |
+| ==       | Equal                    | 1==1 true                |
+| !=       | Not equal                | 1!=1 false 1!=2 true     |
