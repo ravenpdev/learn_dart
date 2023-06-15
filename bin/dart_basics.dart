@@ -1,8 +1,11 @@
-import 'package:dart_basics/variables.dart' as variables;
-import 'package:dart_basics/data_types.dart' as data_types;
+import 'package:dart_basics/arithmetic_operators.dart';
+import 'package:dart_basics/variables.dart';
+import 'package:dart_basics/data_types.dart';
 
 void main(List<String> arguments) {
-  variables.variables();
+  variables();
 
-  data_types.dataTypes();
+  dataTypes();
+
+  arithmeticOperators();
 }
